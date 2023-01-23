@@ -1,12 +1,12 @@
-# App Template • ![license](https://img.shields.io/github/license/0xduality/app?label=license) ![solidity](https://img.shields.io/badge/solidity-^0.8.16-lightgrey)
+# Foundry Template • ![license](https://img.shields.io/github/license/0xduality/app?label=license) ![solidity](https://img.shields.io/badge/solidity-^0.8.16-lightgrey)
 
 
 ## Getting Started
 
 Assuming you have [foundry](https://getfoundry.sh/) installed
 ```sh
-git clone --recursive https://github.com/0xduality/app
-cd app 
+git clone --recursive https://github.com/0xduality/foundry-template
+cd foundry-template 
 forge test
 ```
 

@@ -1,6 +1,6 @@
 {
-  "name": "App-Template",
-  "description": "Template for app",
+  "name": "foundry-template",
+  "description": "Foundry template for a smart contract",
   "author": "0xduality",
   "license": "Affero General Public License",
   "version": "1.0.0",
